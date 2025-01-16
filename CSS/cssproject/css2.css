@@ -1,0 +1,15 @@
+
+body{
+    
+    background-color: #f1f5f9;
+}
+body .first{
+    background-color: #fff;
+}
+div .heading{
+    color: blue;
+}
+body .second{
+    color:#fff;
+    background: rgba(0, 0, 0,0.9);
+}

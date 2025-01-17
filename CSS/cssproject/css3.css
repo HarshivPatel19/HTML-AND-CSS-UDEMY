@@ -1,0 +1,28 @@
+*{
+    margin:0;
+}
+.first{
+    color:red;
+    background-color: white;
+    font-size: 20px;
+    height: 100px;
+}
+.second{
+    color:white;
+    background-color: black;
+    min-height: calc(100vh - 100px);
+}
+#one{
+    color:red;
+    font-size: 40px;
+}
+#two{
+    font-size: 70px;
+}
+.second p{
+    font-size:20px;
+}
+#three{
+    color:white;
+    background-color:red;
+}

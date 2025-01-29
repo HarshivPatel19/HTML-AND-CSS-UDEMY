@@ -1,14 +1,21 @@
-h1, p{
+div{
+    background-color: orange;
+    margin:10px;
     color:white;
+    font-size: 40px;
 }
-h1{
-    background: red;
-    margin:25%;
-    outline-style: dashed;
-    outline-offset:-20px;
-    outline-color: aqua;
-
+.none{
+    display: none;
 }
-p{
-    background:blue;
+.opacity-1{
+    opacity: 1;
+}
+.opacity-5{
+    opacity: 0.5;
+}
+.opacity-0{
+    opacity: 0;
+}
+.visibility{
+    visibility: hidden;
 }

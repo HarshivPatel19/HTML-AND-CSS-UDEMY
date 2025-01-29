@@ -1,10 +1,14 @@
-body{
-    line-height:2;
-    word-spacing:4;
+h1, p{
+    color:white;
 }
 h1{
-    font-size: 40px;
+    background: red;
+    margin:25%;
+    outline-style: dashed;
+    outline-offset:-20px;
+    outline-color: aqua;
+
 }
-a{
-    text-decoration: none;
+p{
+    background:blue;
 }
